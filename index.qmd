@@ -1,0 +1,32 @@
+---
+title: "Lorenzo Dragani"
+#subtitle: "Physicist · Pescara, Italy"
+about:
+  template: trestles
+  image: problem.png
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/lorenzodragani
+   # - icon: linkedin
+   #   text: LinkedIn
+   #   href: https://linkedin.com/in/YOURPROFILE
+   # - icon: envelope
+   #   text: Email
+   #   href: mailto:you@example.com
+---
+
+I studied physics at the University of Bologna, and I work as a private STEM tutor.
+
+This site is where I write up what I'm working on — mostly as it happens, rather than after it's finished.
+
+Expect notes with loose ends in them.
+
+**Right now I'm working on:** 
+
+* Structure and Interpretation of Classical Mechanics
+* Deep Learning with Python 2nd ed.
+
+You can read everything on the [blog](blog.qmd).
